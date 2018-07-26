@@ -1,0 +1,7 @@
+.idea
+native/target
+native/index.node
+native/artifacts.json
+**/*~
+**/node_modules
+**/.DS_Store
